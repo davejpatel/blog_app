@@ -1,6 +1,6 @@
 module ApplicationHelper
   def full_title(page_title)
-    base_title = "Blog App"
+    base_title = "Fit Blog"
     if page_title.empty?
       base_title
     else
